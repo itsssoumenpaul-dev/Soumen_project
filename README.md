@@ -1,3 +1,3 @@
 # Soumen_project
 its my first repository
-Auther- Soumer
+Author- Soumer
